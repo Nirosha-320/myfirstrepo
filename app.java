@@ -20,3 +20,7 @@ class Main {
     }
   }
 }
+selector {
+    property1: value;
+    property2: value;
+}
